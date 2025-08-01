@@ -1,9 +1,9 @@
 
-# 📊 SocialEcho: Sentiment Analysis on Social Media Data
+# 📊 SentimentScope: Social Pulse Analytics
 
 ## 🔍 Project Overview
 
-**SocialEcho** is a sentiment analysis and data visualization project designed to understand public opinion and emotional tone toward specific topics or brands using social media data (e.g., Twitter, Reddit). The project leverages NLP techniques to process user-generated content and reveals trends, moods, and insights that can influence marketing, public relations, or policy decisions.
+**SentimentScope** is a sentiment analysis and data visualization project designed to understand public opinion and emotional tone toward specific topics or brands using social media data (e.g., Twitter, Reddit). The project leverages NLP techniques to process user-generated content and reveals trends, moods, and insights that can influence marketing, public relations, or policy decisions.
 
 ## 📁 Dataset
 
