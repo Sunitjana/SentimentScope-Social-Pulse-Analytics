@@ -51,18 +51,15 @@ We use publicly available datasets or APIs such as:
 ## Install required packages:
 
 - bash
-- Copy
-- Edit
+
 - pip install -r requirements.txt
-- Add your own dataset or connect to Twitter API using your keys in config.py.
+
 
 ## Run the main script:
 
 - bash
-- Copy
-- Edit
+
 - python sentiment_analysis.py
-- View visualizations in output/ directory or interactive dashboard (if applicable).
 
 ## 📌 Requirements
 
