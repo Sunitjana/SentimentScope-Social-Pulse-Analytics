@@ -50,30 +50,30 @@ We use publicly available datasets or APIs such as:
 
 ## Install required packages:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Add your own dataset or connect to Twitter API using your keys in config.py.
+- bash
+- Copy
+- Edit
+- pip install -r requirements.txt
+- Add your own dataset or connect to Twitter API using your keys in config.py.
 
 ## Run the main script:
 
-bash
-Copy
-Edit
-python sentiment_analysis.py
-View visualizations in output/ directory or interactive dashboard (if applicable).
+- bash
+- Copy
+- Edit
+- python sentiment_analysis.py
+- View visualizations in output/ directory or interactive dashboard (if applicable).
 
 ## 📌 Requirements
 
-Python 3.7+
-pandas
-matplotlib / seaborn / plotly
-nltk
-textblob / vaderSentiment
-tweepy (if using Twitter API)
-scikit-learn (for model training, optional)
-transformers (if using BERT)
+- Python 3.7+
+- pandas
+- matplotlib / seaborn / plotly
+- nltk
+- textblob / vaderSentiment
+- tweepy (if using Twitter API)
+- scikit-learn (for model training, optional)
+- transformers (if using BERT)
 
 
 ## 🤝 Contributing
