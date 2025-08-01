@@ -54,7 +54,7 @@ We use publicly available datasets or APIs such as:
    git clone https://github.com/your-username/socialecho.git
    cd socialecho
 
-Install required packages:
+## Install required packages:
 
 bash
 Copy
@@ -62,7 +62,7 @@ Edit
 pip install -r requirements.txt
 Add your own dataset or connect to Twitter API using your keys in config.py.
 
-Run the main script:
+## Run the main script:
 
 bash
 Copy
@@ -70,45 +70,18 @@ Edit
 python sentiment_analysis.py
 View visualizations in output/ directory or interactive dashboard (if applicable).
 
-📌 Requirements
+## 📌 Requirements
+
 Python 3.7+
-
 pandas
-
 matplotlib / seaborn / plotly
-
 nltk
-
 textblob / vaderSentiment
-
 tweepy (if using Twitter API)
-
 scikit-learn (for model training, optional)
-
 transformers (if using BERT)
 
-📚 Folder Structure
-bash
-Copy
-Edit
-socialecho/
-│
-├── data/                # Raw & processed data
-├── notebooks/           # Jupyter notebooks
-├── output/              # Generated charts and graphs
-├── src/                 # Python scripts
-├── models/              # Sentiment model (optional)
-├── README.md
-├── requirements.txt
-└── sentiment_analysis.py
-🧾 License
-This project is open-source and available under the MIT License.
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests and suggestions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-vbnet
-Copy
-Edit
-
-Let me know if you'd like me to generate the `requirements.txt`, starter code, or upload-ready file structu
