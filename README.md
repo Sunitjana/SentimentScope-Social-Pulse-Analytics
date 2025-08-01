@@ -47,12 +47,6 @@ We use publicly available datasets or APIs such as:
 - Monitor brand reputation and detect sudden sentiment shifts
 - Identify influential users or viral posts that shaped public opinion
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/socialecho.git
-   cd socialecho
 
 ## Install required packages:
 
