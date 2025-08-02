@@ -50,16 +50,14 @@ We use publicly available datasets or APIs such as:
 
 ## Install required packages:
 
-- bash
 
-- pip install -r requirements.txt
+
+-' pip install -r requirements.txt '
 
 
 ## Run the main script:
 
-- bash
-
-- python sentiment_analysis.py
+- ' python sentiment_analysis.py '
 
 ## 📌 Requirements
 
